@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am iOS developer from Ukraine with more than 3 years of expirience. When I'm not debugging or deploying, you'll find me brewing the perfect cup of coffee, which I argue is as crucial as any programming language.
+I am Data Engineer from Ukraine with more than 8 years of expirience in IT. When I'm not debugging or deploying, you'll find me brewing the perfect cup of coffee, which I argue is as crucial as any programming language.
 
 ## Contact
 
