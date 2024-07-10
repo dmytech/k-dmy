@@ -7,7 +7,7 @@ I am Data Engineer from Ukraine with more than 8 years of expirience in IT. When
 For code talks, car chats, or to exchange the world’s best coffee recommendations, feel free to connect:
 
 - Email: dimech.up@gmail.com
-- LinkedIn: [LinkedIn](www.linkedin.com/in/dmytro-kiselov-ios-dev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/k-dmytech/)
 <!--
 **k-dmy/k-dmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
